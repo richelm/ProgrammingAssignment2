@@ -4,7 +4,7 @@
 ## INTRODUCTION
 ## ------------
 ## Computing the inverse of a matrix can be potentially time consuming. If 
-## you have to compute the inverse of an unchaning matrix repeatedly, say
+## you have to compute the inverse of an unchanging matrix repeatedly, say
 ## in a loop, then this leads to unnecessary computations. 
 ##
 ## To make the computation of the inverse of a matrix more efficient, we
